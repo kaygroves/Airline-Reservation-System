@@ -1,0 +1,13 @@
+1. Create users master class and subclasses for users and admin
+2.hide api key in application properties
+3.connect gui
+4. set up connection to db for users and passwords
+5. add validation to form elements
+6. change hardcoded traveler info
+7. add axios connection
+8. create log in system
+9. add reservations list to database and api call ig
+10. fix this error in flightoptions :: props.flightOptions.map is not a function (flight options incorrect)
+
+FIXED:
+connection to front end
